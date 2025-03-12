@@ -18,7 +18,7 @@ public class Mail_teencode {
     public static void guiTeenCodequa_gmail(String toEmail) {
         // Cấu hình thông tin email
         String fromEmail = "anhnvt.23Ite@vku.udn.vn";
-        String password = "TuanAnh_205";
+        String password = "nfbisdifisd";
 
         // Tạo mã xác nhận ngẫu nhiên
         String maTeenCode = taoteenCode();
